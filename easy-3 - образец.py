@@ -10,7 +10,7 @@ def person_render(name, age, town):
     return '{}, {} год(а), проживает в городе {}'.format(name, age, town)
 
 
-print(person_render('Сергей', '100', 'Уфа'))
+print(person_render('Сергей', '100', 'Казань'))
 
 
 # Задание - 2
